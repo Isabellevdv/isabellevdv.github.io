@@ -3,7 +3,7 @@
 I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](grievance-erc.com). The focus of my research is understanding and predicting threats of violence by using computational linguistics. I currently work on projects examining language use in lone actor terrorist manifestos, extremist forums, and threats to public figures.
 
 ### News (September 2018)
-- Together with JDI Open and the GRIEVANCE project we are running a survey on open science & terrorism studies. If you are a terrorism researcher, please consider participating [here](tinyurl.com/openterror).
+- Together with [JDI Open](jdiopen.github.io) and the [GRIEVANCE project](grievance-erc.com) we are running a survey on open science & terrorism studies. If you are a terrorism researcher, please consider participating [here](tinyurl.com/openterror).
 - I am co-organising a workshop on linguistic temporal trajectory analyis at the EURO CSS symposium for Computational Social Science. You can find more information and register [here](http://symposium.computationalsocialscience.eu/2018/#call)!
 - Our paper on sentiment trajectories of YouTube vlogs will be presented at [EMNLP 2018](http://emnlp2018.org/) in Brussels. 
 
