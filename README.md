@@ -5,7 +5,7 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 ### News (Fall 2018)
 - Together with [JDI Open](https://jdiopen.github.io/) and the [GRIEVANCE project](https://www.grievance-erc.com/) we are running a survey on open science & terrorism studies. If you are a terrorism researcher, please consider participating [here](https://www.soscisurvey.de/openscience_terrorismstudies/).
 - I am co-organising a workshop on linguistic temporal trajectory analyis at the European Computational Social Science symposium 2018. You can find more information and register [here](http://symposium.computationalsocialscience.eu/2018/#call)!
-- Our paper on sentiment trajectories of YouTube vlogs will be presented at [EMNLP 2018](http://emnlp2018.org/) in Brussels. 
+- Our [paper](https://arxiv.org/abs/1808.09722) on sentiment trajectories of YouTube vlogs will be presented at [EMNLP 2018](http://emnlp2018.org/) in Brussels. 
 
 ### Brief CV 
 - 2018-present: PhD student UCL Department of Security & Crime Science, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
