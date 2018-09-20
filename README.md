@@ -1,3 +1,4 @@
+### Bio
 I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](https://www.grievance-erc.com/). The focus of my research is understanding and predicting threats of violence by using computational linguistics. I currently work on projects examining language use in lone actor terrorist manifestos, extremist forums, and threats to public figures.
 
 ### News (Fall 2018)
