@@ -16,8 +16,8 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 - Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). Identifying the sentiment styles of YouTube’s vloggers. _Proceedings of EMNLP 2018._ Click here for the [paper](https://arxiv.org/abs/1808.09722), [data](https://github.com/ben-aaron188/narrative_structures), and [code](https://github.com/ben-aaron188/naive_context_sentiment).
 
 ### Recent talks
-- Violent mood swings: intra-textual sentiment of lone-actor manifestos. Talk at VOX-POL: Violent extremism, terrorism, and the internet: present and future trends, Amsterdam, Netherlands (August 21, 2018). 
-- Violent mood swings: intra-textual sentiment of violent lone actor manifestos. Talk at the Society for Terrorism Research conference, Liverpool, UK (September 6, 2018). 
+- Violent mood swings: intra-textual sentiment of lone-actor manifestos. Talk at [VOX-POL](voxpol.eu): Violent extremism, terrorism, and the internet: present and future trends, Amsterdam, Netherlands (August 21, 2018). [Slides](https://osf.io/me7bz/)
+- Violent mood swings: intra-textual sentiment of violent lone actor manifestos. Talk at the annual [Society for Terrorism Research](https://www.societyforterrorismresearch.org/) conference, Liverpool, UK (September 6, 2018). 
 
 ### Find me on..
 - [Twitter](twitter.com/isabellevdv)
