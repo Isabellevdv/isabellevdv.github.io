@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Isabelle van der Vegt
 
-You can use the [editor on GitHub](https://github.com/Isabellevdv/isabellevdv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](grievance-erc.com). The focus of my research is understanding and predicting threats of violence by using computational linguistics. I currently work on projects examining language use in lone actor terrorist manifestos, extremist forums, and threats to public figures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Brief CV 
+- 2018-present: PhD student Crime Science, supervised by Paul Gill & [Bennett Kleinberg](bkleinberg.net) 
+- 2015-2017: Research Master’s degree in Psychology, University of Amsterdam 
+- 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
-### Markdown
+### Recent publications
+- Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). Identifying the sentiment styles of YouTube’s vloggers, Proceedings of EMNLP 2018. Click here for the [paper](https://arxiv.org/abs/1808.09722), [data](https://github.com/ben-aaron188/narrative_structures), and [code](https://github.com/ben-aaron188/naive_context_sentiment).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Recent talks
+- Violent mood swings: intra-textual sentiment of lone-actor manifestos. Talk at VOX-POL: Violent extremism, terrorism, and the internet: present and future trends, Amsterdam, Netherlands (August 21, 2018). 
+- Violent mood swings: intra-textual sentiment of violent lone actor manifestos. Talk at the Society for Terrorism Research conference, Liverpool, UK (September 6, 2018). 
 
-```markdown
-Syntax highlighted code block
+### Find me on..
+- [Twitter](twitter.com/isabellevdv)
+- [LinkedIn](https://www.linkedin.com/in/isabellevdv/)
+- [Open Science Framework](https://osf.io/ubrz6/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Isabellevdv/isabellevdv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
