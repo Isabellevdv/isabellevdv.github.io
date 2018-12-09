@@ -1,9 +1,10 @@
 ### Bio
 I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](https://www.grievance-erc.com/). The focus of my research is understanding and predicting threats of violence by using computational linguistics. I currently work on projects examining language use in lone actor terrorist manifestos, extremist forums, and threats to public figures.
 
-### News (Fall 2018)
-- Our [paper](https://arxiv.org/abs/1808.09722) on sentiment trajectories of YouTube vlogs will be presented at [EMNLP 2018](http://emnlp2018.org/) in Brussels. 
-- I am co-organising a workshop on linguistic temporal trajectory analyis at the European Computational Social Science symposium 2018. You can find more information and register [here](http://symposium.computationalsocialscience.eu/2018/#call)!
+### News (Winter 2018-2019)
+- I co-organised a workshop on linguistic temporal trajectory analyis at the European Computational Social Science symposium 2018. You can find more information [here](https://bkleinberg.net/ltta_workshop/).
+- We are conducting interviews with social media companies for our project on human-machine integration for extremist content removal. The project is funded by [RUSI](https://rusi.org/) (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and [Bennett Kleinberg](https://bkleinberg.net/))
+- I will speak at the Terrorism & Social Media conference in Swansea, 25-26 June 2019. The talk will focus on linguistic trajectories of YouTube’s alt-right. More info and registration [here](http://terrorismandsocialmedia.com/). 
 
 ### Brief CV 
 - 2018-present: PhD student UCL Department of Security & Crime Science, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
