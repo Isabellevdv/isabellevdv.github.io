@@ -1,7 +1,7 @@
 ### Bio
 I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](https://www.grievance-erc.com/). The focus of my research is understanding threats of violence by using computational linguistics. I currently work on projects examining language use in lone actor terrorist manifestos, extremist forums and YouTube videos, and threats to public figures.
 
-### News (Spring 2019)
+### News (Spring/summer 2019)
 - We have conducted interviews with social media companies for our project on human-machine integration for extremist content removal. The project is funded by [RUSI](https://rusi.org/) (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and [Bennett Kleinberg](https://bkleinberg.net/) and a report will be published on their website shortly. 
 - I will speak at the [Terrorism & Social Media conference](http://terrorismandsocialmedia.com/) in Swansea, 25-26 June 2019. The talk will focus on linguistic trajectories of YouTube’s alt-right. 
 - I will speak at the [Society for Terrorism Research conference](https://www.societyforterrorismresearch.org/international-conference-2019) in Oslo, 20-21 June 2019. My talk will focus on developing the GRIEVANCE dictionary: understanding terrorist language use (with Bennett Kleinberg, Paul Gill). I am also a co-author for the paper presentation: Towards Open and Reproducible Terrorism Studies (with Sandy Schumann, Bart Schuurman, & Paul Gill). 
