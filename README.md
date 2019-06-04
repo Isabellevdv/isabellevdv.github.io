@@ -5,6 +5,7 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 - We have conducted interviews with social media companies for our project on human-machine integration for extremist content removal. The project is funded by [RUSI](https://rusi.org/) (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and [Bennett Kleinberg](https://bkleinberg.net/) and a report will be published on their website shortly. 
 - I will speak at the [Terrorism & Social Media conference](http://terrorismandsocialmedia.com/) in Swansea, 25-26 June 2019. The talk will focus on linguistic trajectories of YouTube’s alt-right. 
 - I will speak at the [Society for Terrorism Research conference](https://www.societyforterrorismresearch.org/international-conference-2019) in Oslo, 20-21 June 2019. My talk will focus on developing the GRIEVANCE dictionary: understanding terrorist language use (with Bennett Kleinberg, Paul Gill). I am also a co-author for the paper presentation: Towards Open and Reproducible Terrorism Studies (with Sandy Schumann, Bart Schuurman, & Paul Gill). 
+- I will present at the [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk will discuss the paper: 'Online influence, offline violence: linguistic responses to the 'Unite the Right' rally.
 
 ### Brief CV 
 - 2018-present: PhD student UCL Department of Security & Crime Science, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
