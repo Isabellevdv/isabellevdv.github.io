@@ -13,7 +13,7 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
-- Soldner, F., Ho, J., Makhortykh, M., van der Vegt, I., Mozes, M., Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. 3rd Workshop on Natural Language Processing and Computational Social Science. [Paper.](https://aclweb.org/anthology/papers/W/W19/W19-2110/). 
+- Soldner, F., Ho, J., Makhortykh, M., van der Vegt, I., Mozes, M., Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. 3rd Workshop on Natural Language Processing and Computational Social Science. [Paper.](https://aclweb.org/anthology/papers/W/W19/W19-2110/)
 - Kleinberg, B., van der Vegt, I., Arntz, A., Verschuere, B. (pre-print). Detecting deceptive communication through linguistic concreteness. [Paper here.](https://psyarxiv.com/p3qjh/download/?format=pdf)
 - Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). Identifying the sentiment styles of YouTube’s vloggers. _Proceedings of EMNLP 2018._ Click here for the [paper](https://arxiv.org/abs/1808.09722), [data](https://github.com/ben-aaron188/narrative_structures), and [code](https://github.com/ben-aaron188/naive_context_sentiment).
 
