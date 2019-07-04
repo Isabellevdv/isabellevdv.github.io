@@ -2,7 +2,7 @@
 I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](https://www.grievance-erc.com/). The focus of my research is understanding threats of violence by using computational linguistics. I am interested in developing solutions to better understand and counter radicalisation, extremism, terrorism, and other forms of grievance-fuelled targeted violence.
 
 ### News (spring/summer 2019)
-- We have conducted interviews with social media companies for our project on human-machine integration for extremist content removal. The project is funded by [RUSI](https://rusi.org/) (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and [Bennett Kleinberg](https://bkleinberg.net/) and a report will be published on their website shortly. 
+- We have conducted interviews with social media companies for our project on human-machine integration for extremist content removal. The report is available [here](https://rusi.org/sites/default/files/20190703_grntt_paper_3.pdf) (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and [Bennett Kleinberg](https://bkleinberg.net/).
 - I will present at the [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk will discuss the forthcoming paper: 'Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally (with Maximilian Mozes, Bennett Kleinberg, Paul Gill).
 
 ### Brief CV 
