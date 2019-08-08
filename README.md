@@ -6,11 +6,12 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 - I will present at the [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk will discuss the forthcoming paper: 'Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally (with Maximilian Mozes, Bennett Kleinberg, Paul Gill).
 
 ### Brief CV 
-- 2018-present: PhD student UCL Department of Security & Crime Science, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
+- 2018-present: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
 - 2015-2017: Research Master’s degree in Psychology, University of Amsterdam 
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
+- van der Vegt, I., Gill, P., Macdonald, S., Kleinberg, B. (2019). Shedding Light on Terrorist and Extremist Content Removal. _Global Research Network on Terrorism and Technology._ [Paper.](https://rusi.org/publication/other-publications/shedding-light-terrorist-and-extremist-content-removal)
 - Soldner, F., Ho, J., Makhortykh, M., van der Vegt, I., Mozes, M., Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. 3rd Workshop on Natural Language Processing and Computational Social Science. [Paper.](https://aclweb.org/anthology/papers/W/W19/W19-2110/)
 - Kleinberg, B., van der Vegt, I., Arntz, A., Verschuere, B. (pre-print). Detecting deceptive communication through linguistic concreteness. [Paper here.](https://psyarxiv.com/p3qjh/download/?format=pdf)
 - Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). Identifying the sentiment styles of YouTube’s vloggers. _Proceedings of EMNLP 2018._ Click here for the [paper](https://arxiv.org/abs/1808.09722), [data](https://github.com/ben-aaron188/narrative_structures), and [code](https://github.com/ben-aaron188/naive_context_sentiment).
