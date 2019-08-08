@@ -22,7 +22,6 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 - At the 2019 UCL Open Science Day, we spoke about our open science seminar series at the Department of Security and Crime Science. You can find the website for JDI Open [here](jdiopen.github.io) and our slides on 'Promoting Open (Crime) Science' [here](https://jdiopen.github.io/jdiopen.github.io/osday.pdf). 
 - I co-organised a workshop on linguistic temporal trajectory analyis at the European Computational Social Science symposium 2018. You can find more information [here](https://bkleinberg.net/ltta_workshop/).
 - Violent mood swings: intra-textual sentiment of lone-actor manifestos. Talk at [VOX-POL](https://www.voxpol.eu/): Violent extremism, terrorism, and the internet: present and future trends, Amsterdam, Netherlands (August 21, 2018). [Slides and data](https://osf.io/me7bz/), paper submitted.
-- Violent mood swings: intra-textual sentiment of violent lone actor manifestos. Talk at the annual [Society for Terrorism Research](https://www.societyforterrorismresearch.org/) conference, Liverpool, UK (September 6, 2018). 
 
 ### Find me on..
 - [Twitter](https://twitter.com/Isabellevdv)
