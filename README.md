@@ -3,7 +3,6 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 
 ### News (spring/summer 2019)
 - We have conducted interviews with social media companies for our project on human-machine integration for extremist content removal. The report is available [here](https://rusi.org/sites/default/files/20190703_grntt_paper_3.pdf) (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and [Bennett Kleinberg](https://bkleinberg.net/).
-- I will present at the [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk will discuss the forthcoming paper: 'Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally (with Maximilian Mozes, Bennett Kleinberg, Paul Gill).
 
 ### Brief CV 
 - 2018-present: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
@@ -17,12 +16,11 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 - Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). Identifying the sentiment styles of YouTube’s vloggers. _Proceedings of EMNLP 2018._ Click here for the [paper](https://arxiv.org/abs/1808.09722), [data](https://github.com/ben-aaron188/narrative_structures), and [code](https://github.com/ben-aaron188/naive_context_sentiment).
 
 ### Previous activities
+- I presented at the 2019 [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk discussed the working paper: 'Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally (with Maximilian Mozes, Bennett Kleinberg, Paul Gill).
 - I was a guest tweeter for [Researc/hers code](https://twitter.com/ResearcHersCode) a platform supporting women in computational science, research and tech. 
 - I spoke at the [Terrorism & Social Media conference](http://terrorismandsocialmedia.com/) in Swansea, 25-26 June 2019. The talk focussed on linguistic trajectories of YouTube’s alt-right (with Maximilian Mozes, Bennett Kleinberg, Paul Gill, paper in preparation). 
 - I spoke at the [Society for Terrorism Research conference](https://www.societyforterrorismresearch.org/international-conference-2019) in Oslo, 20-21 June 2019. My talk focussed on developing the GRIEVANCE dictionary: understanding terrorist language use (with Bennett Kleinberg, Paul Gill). I also co-presented the paper: Towards Open and Reproducible Terrorism Studies (with Sandy Schumann, Bart Schuurman, & Paul Gill). 
 - At the 2019 UCL Open Science Day, we spoke about our open science seminar series at the Department of Security and Crime Science. You can find the website for JDI Open [here](jdiopen.github.io) and our slides on 'Promoting Open (Crime) Science' [here](https://jdiopen.github.io/jdiopen.github.io/osday.pdf). 
-- I co-organised a workshop on linguistic temporal trajectory analyis at the European Computational Social Science symposium 2018. You can find more information [here](https://bkleinberg.net/ltta_workshop/).
-- Violent mood swings: intra-textual sentiment of lone-actor manifestos. Talk at [VOX-POL](https://www.voxpol.eu/): Violent extremism, terrorism, and the internet: present and future trends, Amsterdam, Netherlands (August 21, 2018). [Slides and data](https://osf.io/me7bz/), paper submitted.
 
 ### Find me on..
 - [Twitter](https://twitter.com/Isabellevdv)
