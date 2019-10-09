@@ -1,8 +1,9 @@
 ### Bio
 I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](https://www.grievance-erc.com/). The focus of my research is understanding threats of violence by using computational linguistics. I aim to develop solutions to better understand and counter radicalisation, extremism, terrorism, and other forms of grievance-fuelled targeted violence. I am also interested in improving research transparency within and beyond the field of crime science: check out the [open science seminar series](jdiopen.github.io) I co-organise.  
 
-### News (spring/summer 2019)
-- We have conducted interviews with social media companies for our project on human-machine integration for extremist content removal. The report is available [here](https://rusi.org/sites/default/files/20190703_grntt_paper_3.pdf) (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and [Bennett Kleinberg](https://bkleinberg.net/).
+### News (fall 2019)
+- Our pre-print titled: _Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally_ is [available](https://arxiv.org/abs/1908.11599) now (with Maximilian Mozes, Paul Gill, & Bennett Kleinberg).
+- We are currently finalising the GRIEVANCE dictionary, a lexicon for the purpose of linguistic threat assessment. Have a look at our pre-registration [here](https://osf.io/3grd6/).
 
 ### Brief CV 
 - 2018-present: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
@@ -10,6 +11,7 @@ I am a PhD student at the [UCL Department of Security and Crime Science](http://
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
+- van der Vegt, I., Mozes, M., Gill, P., Kleinberg, B. (2019). Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally. [Pre-print.](https://arxiv.org/abs/1908.11599)
 - van der Vegt, I., Gill, P., Macdonald, S., Kleinberg, B. (2019). Shedding Light on Terrorist and Extremist Content Removal. _Global Research Network on Terrorism and Technology._ [Paper.](https://rusi.org/publication/other-publications/shedding-light-terrorist-and-extremist-content-removal)
 - Soldner, F., Ho, J., Makhortykh, M., van der Vegt, I., Mozes, M., Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. _3rd Workshop on Natural Language Processing and Computational Social Science._ [Paper.](https://aclweb.org/anthology/papers/W/W19/W19-2110/)
 - Kleinberg, B., van der Vegt, I., Arntz, A., Verschuere, B. (pre-print). Detecting deceptive communication through linguistic concreteness. [Paper here.](https://psyarxiv.com/p3qjh/download/?format=pdf)
