@@ -1,10 +1,7 @@
 ### Bio
 I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I also work as a research assistant on the ERC-funded [GRIEVANCE project](https://www.grievance-erc.com/). The focus of my research is understanding threats of violence by using computational linguistics. I aim to develop solutions to better understand and counter radicalisation, extremism, terrorism, and other forms of grievance-fuelled targeted violence. I am also interested in improving research transparency within and beyond the field of crime science: check out the [open science seminar series](jdiopen.github.io) I co-organise.  
 
-### Find me on..
-- [Twitter](https://twitter.com/Isabellevdv)
-- [LinkedIn](https://www.linkedin.com/in/isabellevdv/)
-- [Open Science Framework](https://osf.io/ubrz6/)
+More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedin.com/in/isabellevdv/), [Open Science Framework](https://osf.io/ubrz6/)
 
 ### Brief CV 
 - 2018-present: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
