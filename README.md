@@ -16,10 +16,9 @@ Trends and Next Steps. _Perspectives on Terrorism_. Paper [here](https://www.uni
 - Kleinberg, B., van der Vegt, I., Arntz, A., Verschuere, B. (pre-print). Detecting deceptive communication through linguistic concreteness. [Paper here.](https://psyarxiv.com/p3qjh/download/?format=pdf)
 - Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). Identifying the sentiment styles of YouTube’s vloggers. _Proceedings of EMNLP 2018._ Click here for the [paper](https://arxiv.org/abs/1808.09722), [data](https://github.com/ben-aaron188/narrative_structures), and [code](https://github.com/ben-aaron188/naive_context_sentiment).
 
-### Previous activities
+### Recent activities
 - I presented at the 2019 [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk discussed the working paper: 'Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally (with Maximilian Mozes, Bennett Kleinberg, Paul Gill).
 - I was a guest tweeter for [Researc/hers code](https://twitter.com/ResearcHersCode) a platform supporting women in computational science, research and tech. 
-- I spoke at the [Terrorism & Social Media conference](http://terrorismandsocialmedia.com/) in Swansea, 25-26 June 2019. The talk focussed on linguistic trajectories of YouTube’s alt-right (with Maximilian Mozes, Bennett Kleinberg, Paul Gill, paper in preparation). 
 - I spoke at the [Society for Terrorism Research conference](https://www.societyforterrorismresearch.org/international-conference-2019) in Oslo, 20-21 June 2019. My talk focussed on developing the GRIEVANCE dictionary: understanding terrorist language use (with Bennett Kleinberg, Paul Gill). I also co-presented the paper: Towards Open and Reproducible Terrorism Studies (with Sandy Schumann, Bart Schuurman, & Paul Gill). 
 - At the 2019 UCL Open Science Day, we spoke about our open science seminar series at the Department of Security and Crime Science. You can find the website for JDI Open [here](jdiopen.github.io) and our slides on 'Promoting Open (Crime) Science' [here](https://jdiopen.github.io/jdiopen.github.io/osday.pdf). 
 
