@@ -8,6 +8,7 @@ More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedi
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
+- Kleinberg, B., van der Vegt, I., & Mozes, M. (pre-print). Measuring Emotions in the COVID-19 Real World Worry Dataset. [Arxiv](https://arxiv.org/pdf/2004.04225).
 - Kleinberg, B., van der Vegt, I., & Gill, P. (2020). The temporal evolution of a far-right forum. _Journal of Computational Social Science, 1-23_. [Open Access.](https://link.springer.com/article/10.1007/s42001-020-00064-x)
 - Schumann, S., van der Vegt, I., Gill, P., Schuurman, B. (2019). Towards Open and Reproducible Terrorism Studies: Current
 Trends and Next Steps. _Perspectives on Terrorism_. Open access paper [here](https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf).
