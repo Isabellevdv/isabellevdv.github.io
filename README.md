@@ -8,6 +8,8 @@ More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedi
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
+- van der Vegt, I., & Kleinberg, B. (2020). Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19. [Pre-print](https://arxiv.org/abs/2004.08202).
+- van der Vegt, I., Marchment, Z., Clemmow, C., \& Gill, P. (2020) Learning from the parallel field of terrorism studies. _Journal of Threat Assessment and Management_. [Link (paywall)].(https://psycnet.apa.org/record/2020-26206-008)
 - Kleinberg, B., van der Vegt, I., & Mozes, M. (2020). Measuring Emotions in the COVID-19 Real World Worry Dataset. [Pre-print](https://arxiv.org/pdf/2004.04225).
 - Kleinberg, B., van der Vegt, I., & Gill, P. (2020). The temporal evolution of a far-right forum. _Journal of Computational Social Science, 1-23_. [Open Access.](https://link.springer.com/article/10.1007/s42001-020-00064-x)
 - Schumann, S., van der Vegt, I., Gill, P., Schuurman, B. (2019). Towards Open and Reproducible Terrorism Studies: Current
