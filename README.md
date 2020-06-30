@@ -16,11 +16,8 @@ More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedi
 - Schumann, S., van der Vegt, I., Gill, P., Schuurman, B. (2019). Towards Open and Reproducible Terrorism Studies: Current
 Trends and Next Steps. _Perspectives on Terrorism_. Open access paper [here](https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf).
 - van der Vegt, I., Gill, P., Macdonald, S., Kleinberg, B. (2019). Shedding Light on Terrorist and Extremist Content Removal. _Global Research Network on Terrorism and Technology._ [Paper.](https://rusi.org/publication/other-publications/shedding-light-terrorist-and-extremist-content-removal)
-- Soldner, F., Ho, J., Makhortykh, M., van der Vegt, I., Mozes, M., Kleinberg, B. (2019). Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels. _3rd Workshop on Natural Language Processing and Computational Social Science._ [Paper.](https://aclweb.org/anthology/papers/W/W19/W19-2110/)
 
 ### Recent activities
+- For International Women in Engineering Day 2020, the UCL Engineering faculty interviewed me in this short [video](https://www.youtube.com/watch?v=DSfAuZAeALM) about my work, how the Covid-19 situation has impacted this, and what advice I'd give to a young person wanting to enter the field of STEM. 
 - I presented at the 2019 [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk discussed the working paper: 'Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally (with Maximilian Mozes, Bennett Kleinberg, Paul Gill).
 - I was a guest tweeter for [Researc/hers code](https://twitter.com/ResearcHersCode) a platform supporting women in computational science, research and tech. 
-- I spoke at the [Society for Terrorism Research conference](https://www.societyforterrorismresearch.org/international-conference-2019) in Oslo, 20-21 June 2019. My talk focussed on developing the GRIEVANCE dictionary: understanding terrorist language use (with Bennett Kleinberg, Paul Gill). I also co-presented the paper: Towards Open and Reproducible Terrorism Studies (with Sandy Schumann, Bart Schuurman, & Paul Gill). 
-- At the 2019 UCL Open Science Day, we spoke about our open science seminar series at the Department of Security and Crime Science. You can find the website for JDI Open [here](jdiopen.github.io) and our slides on 'Promoting Open (Crime) Science' [here](https://jdiopen.github.io/jdiopen.github.io/osday.pdf). 
-
