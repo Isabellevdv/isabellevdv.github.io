@@ -8,7 +8,7 @@ More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedi
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
-- van der Vegt, I., & Kleinberg, B. (2020). Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19. [Pre-print](https://arxiv.org/abs/2004.08202).
+- van der Vegt, I., & Kleinberg, B. (2020). Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19. _Accepted SocInfo 2020:_ [Pre-print](https://arxiv.org/abs/2004.08202).
 - Kleinberg, B., van der Vegt, I., & Mozes, M. (2020). Measuring Emotions in the COVID-19 Real World Worry Dataset. [Pre-print, accepted ACL 2020](https://arxiv.org/pdf/2004.04225).
 - van der Vegt, I., Marchment, Z., Clemmow, C., & Gill, P. (2020) Learning from the parallel field of terrorism studies. _Journal of Threat Assessment and Management_. [Link (paywall)](https://psycnet.apa.org/record/2020-26206-008).
 - van der Vegt, I., Mozes, M., Gill, P., Kleinberg, B. (2020). Online influence, offline violence: Language use on YouTube surrounding the 'Unite the Right' rally. [Pre-print.](https://arxiv.org/abs/1908.11599)
