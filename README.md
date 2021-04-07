@@ -1,16 +1,19 @@
-I am a PhD student at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). The focus of my research is understanding threats of violence by using computational linguistics. I aim to develop solutions to better understand and counter radicalisation, extremism, terrorism, and other forms of grievance-fuelled targeted violence. I am also interested in improving research transparency within and beyond the field of crime science.
+The focus of my research is understanding threats of violence by using computational linguistics. I hold a PhD from the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I aim to develop solutions to better understand and counter radicalisation, extremism, terrorism, and other forms of grievance-fuelled targeted violence. I am also interested in improving research transparency within and beyond the field of crime science.
 
 More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedin.com/in/isabellevdv/), [Open Science Framework](https://osf.io/ubrz6/), [Google Scholar](https://scholar.google.com/citations?user=nEoRK7YAAAAJ&hl=nl).
 
-### Brief CV 
-- 2018-present: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
+### Brief CV
+- 2021-present: Scientific project manager, Research and Documentation Centre, Ministry of Justice and Security (Netherlands) 
+- 2021-present: Honorary research fellow, Department of Security & Crime Science, University College London
+- 2018-2021: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
 - 2015-2017: Research Master’s degree in Psychology, University of Amsterdam 
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
+- van der Vegt, I., Mozes, M., Kleinberg, B. & Gill, P.(2021) The Grievance Dictionary: Understanding Threatening Language Use. _Behavior Research Methods_. [Open Access](https://link.springer.com/article/10.3758/s13428-021-01536-2).
+- Corner, E., Taylor, H., Van Der Vegt, I., Salman, N., Rottweiler, B., Hetzel, F., Clemmow, S., Schulten, N. & Gill, P. (2021). Reviewing the links between violent extremism and personality, personality disorders, and psychopathy. _The Journal of Forensic Psychiatry & Psychology, 1-30_. [Author version](https://discovery.ucl.ac.uk/id/eprint/10122895/)
 - van der Vegt, I., Mozes, M., Gill, P., & Kleinberg, B. (2020). Online influence, offline violence: Language use on YouTube surrounding the 'Unite the Right' rally. _Journal of Computational Social Science_. [Open Access.](https://link.springer.com/article/10.1007%2Fs42001-020-00080-x)
-- van der Vegt, I., Mozes, M., Kleinberg, B. & Gill, P.(2020) The Grievance Dictionary: Understanding Threatening Language Use. [Pre-print](https://arxiv.org/abs/2009.04798).
-- van der Vegt, I., Kleinberg, B. & Gill, P.(2020). Too good to be true? Predicting author profiles from abusive language. [Pre-print.](https://arxiv.org/abs/2009.01126)
+- van der Vegt, I., Kleinberg, B. & Gill, P. (2020). Too good to be true? Predicting author profiles from abusive language. [Pre-print.](https://arxiv.org/abs/2009.01126)
 - van der Vegt, I., & Kleinberg, B. (2020). Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19. _Social Informatics_. [Open Access](https://link.springer.com/chapter/10.1007/978-3-030-60975-7_29).
 - Kleinberg, B., van der Vegt, I., & Mozes, M. (2020). Measuring Emotions in the COVID-19 Real World Worry Dataset. _Proceedings of the 2020 Association for Computational Linguistics conference_. [Open Access](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.11/).
 - van der Vegt, I., Marchment, Z., Clemmow, C., & Gill, P. (2020) Learning from the parallel field of terrorism studies. _Journal of Threat Assessment and Management_. [Link (paywall)](https://psycnet.apa.org/record/2020-26206-008).
