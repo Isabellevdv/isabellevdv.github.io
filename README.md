@@ -21,8 +21,3 @@ More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedi
 - Schumann, S., van der Vegt, I., Gill, P., Schuurman, B. (2019). Towards Open and Reproducible Terrorism Studies: Current
 Trends and Next Steps. _Perspectives on Terrorism_. Open access paper [here](https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf).
 - van der Vegt, I., Gill, P., Macdonald, S., Kleinberg, B. (2019). Shedding Light on Terrorist and Extremist Content Removal. _Global Research Network on Terrorism and Technology._ [Paper.](https://rusi.org/publication/other-publications/shedding-light-terrorist-and-extremist-content-removal)
-
-### Recent activities
-- For International Women in Engineering Day 2020, the UCL Engineering faculty interviewed me in this short [video](https://www.youtube.com/watch?v=DSfAuZAeALM) about my work, how the Covid-19 situation has impacted this, and what advice I'd give to a young person wanting to enter the field of STEM. 
-- I presented at the 2019 [POLTEXT](https://www.poltextconference.org/) conference, on 14-15 September in Tokyo, Japan. The talk discussed the working paper: 'Online influence, offline violence: Linguistic responses to the 'Unite the Right' rally (with Maximilian Mozes, Bennett Kleinberg, Paul Gill).
-- I was a guest tweeter for [Researc/hers code](https://twitter.com/ResearcHersCode) a platform supporting women in computational science, research and tech. 
