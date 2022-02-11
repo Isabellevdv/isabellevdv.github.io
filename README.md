@@ -10,8 +10,10 @@ More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedi
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
+- van der Vegt, I., Kleinberg, B., & Gill, P. (2022). Predicting author profiles from online abuse directed at public figures. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/xdqs9/)
+- van der Vegt, I., Gregory, P., van der Meer, B.B., Yang, E., Kleinberg, B., & Gill, P. (2022). Assessment procedures in anonymously written threats of harm and violence. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/ctw2b)
+- Mozes, M., van der Vegt, I., Kleinberg, B. (2021). A repeated-measures study on emotional responses after a year in the pandemic. _Scientific Reports._ [Open Access.](https://www.nature.com/articles/s41598-021-02414-9)
 - van der Vegt, I., Mozes, M., Kleinberg, B. & Gill, P.(2021) The Grievance Dictionary: Understanding Threatening Language Use. _Behavior Research Methods_. [Open Access](https://link.springer.com/article/10.3758/s13428-021-01536-2).
-- Corner, E., Taylor, H., Van Der Vegt, I., Salman, N., Rottweiler, B., Hetzel, F., Clemmow, S., Schulten, N. & Gill, P. (2021). Reviewing the links between violent extremism and personality, personality disorders, and psychopathy. _The Journal of Forensic Psychiatry & Psychology, 1-30_. [Author version](https://discovery.ucl.ac.uk/id/eprint/10122895/)
 - van der Vegt, I., Mozes, M., Gill, P., & Kleinberg, B. (2020). Online influence, offline violence: Language use on YouTube surrounding the 'Unite the Right' rally. _Journal of Computational Social Science_. [Open Access.](https://link.springer.com/article/10.1007%2Fs42001-020-00080-x)
 - van der Vegt, I., Kleinberg, B. & Gill, P. (2020). Too good to be true? Predicting author profiles from abusive language. [Pre-print.](https://arxiv.org/abs/2009.01126)
 - van der Vegt, I., & Kleinberg, B. (2020). Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19. _Social Informatics_. [Open Access](https://link.springer.com/chapter/10.1007/978-3-030-60975-7_29).
@@ -20,4 +22,4 @@ More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedi
 - Kleinberg, B., van der Vegt, I., & Gill, P. (2020). The temporal evolution of a far-right forum. _Journal of Computational Social Science, 1-23_. [Open Access.](https://link.springer.com/article/10.1007/s42001-020-00064-x)
 - Schumann, S., van der Vegt, I., Gill, P., Schuurman, B. (2019). Towards Open and Reproducible Terrorism Studies: Current
 Trends and Next Steps. _Perspectives on Terrorism_. Open access paper [here](https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf).
-- van der Vegt, I., Gill, P., Macdonald, S., Kleinberg, B. (2019). Shedding Light on Terrorist and Extremist Content Removal. _Global Research Network on Terrorism and Technology._ [Paper.](https://rusi.org/publication/other-publications/shedding-light-terrorist-and-extremist-content-removal)
+
