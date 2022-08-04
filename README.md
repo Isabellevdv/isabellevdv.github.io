@@ -1,10 +1,11 @@
-The focus of my research is understanding threats of violence by using computational linguistics. I hold a PhD from the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I aim to develop solutions to better understand and counter radicalisation, extremism, terrorism, and other forms of grievance-fuelled targeted violence. I am also interested in improving research transparency within and beyond the field of crime science.
+I am an assistant professor with the [Utrecht University department of Sociology](https://www.uu.nl/en/organisation/sociology). The focus of my research is understanding (online) extremism and threats of violence by using computational linguistics. I hold a PhD from the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). I aim to develop solutions to better understand and counter radicalisation, extremism, terrorism, and other forms of grievance-fuelled targeted violence. I am also interested in improving research transparency within and beyond the field of crime science.
 
-More: [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedin.com/in/isabellevdv/), [Open Science Framework](https://osf.io/ubrz6/), [Google Scholar](https://scholar.google.com/citations?user=nEoRK7YAAAAJ&hl=nl).
+More: [University profile](https://www.uu.nl/staff/IWJvanderVegt), [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedin.com/in/isabellevdv/), [Open Science Framework](https://osf.io/ubrz6/), [Google Scholar](https://scholar.google.com/citations?user=nEoRK7YAAAAJ&hl=nl).
 
 ### Brief CV
-- 2021-present: Scientific project manager, Research and Documentation Centre, Ministry of Justice and Security (Netherlands) 
+- 2022-present: Assistant professor, Department of Sociology, Utrecht University 
 - 2021-present: Honorary research fellow, Department of Security & Crime Science, University College London
+- 2021-2022: Scientific project manager, Research and Documentation Centre, Ministry of Justice and Security (Netherlands) 
 - 2018-2021: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
 - 2015-2017: Research Master’s degree in Psychology, University of Amsterdam 
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
