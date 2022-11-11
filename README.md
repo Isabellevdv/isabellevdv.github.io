@@ -11,6 +11,7 @@ More: [University profile](https://www.uu.nl/staff/IWJvanderVegt), [Twitter](htt
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
 ### Recent publications & pre-prints
+- **New preprint**: van der Vegt, I., Kleinberg, B., & Gill, P. (2022). Proceed with Caution: On the Use of Computational Linguistics in Threat Assessment. [PsyArxiv Preprints](https://psyarxiv.com/ncq9d).
 - van der Vegt, I., Kleinberg, B., & Gill, P. (2022). Predicting author profiles from online abuse directed at public figures. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/xdqs9/)
 - van der Vegt, I., Gregory, P., van der Meer, B.B., Yang, E., Kleinberg, B., & Gill, P. (2022). Assessment procedures in anonymously written threats of harm and violence. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/ctw2b)
 - Mozes, M., van der Vegt, I., Kleinberg, B. (2021). A repeated-measures study on emotional responses after a year in the pandemic. _Scientific Reports._ [Open Access.](https://www.nature.com/articles/s41598-021-02414-9)
