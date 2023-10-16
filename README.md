@@ -8,7 +8,6 @@ More: [University profile](https://www.uu.nl/staff/IWJvanderVegt), [Twitter](htt
 - van der Vegt, I., Kleinberg, B., & Gill, P. (2023). Proceed with Caution: On the Use of Computational Linguistics in Threat Assessment. [Open Access](https://www.tandfonline.com/doi/full/10.1080/18335330.2023.2165137).
 - van der Vegt, I., Kleinberg, B., & Gill, P. (2022). Predicting author profiles from online abuse directed at public figures. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/xdqs9/)
 - van der Vegt, I., Gregory, P., van der Meer, B.B., Yang, E., Kleinberg, B., & Gill, P. (2022). Assessment procedures in anonymously written threats of harm and violence. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/ctw2b)
-- Mozes, M., van der Vegt, I., Kleinberg, B. (2021). A repeated-measures study on emotional responses after a year in the pandemic. _Scientific Reports._ [Open Access.](https://www.nature.com/articles/s41598-021-02414-9)
 - van der Vegt, I., Mozes, M., Kleinberg, B. & Gill, P.(2021) The Grievance Dictionary: Understanding Threatening Language Use. _Behavior Research Methods_. [Open Access](https://link.springer.com/article/10.3758/s13428-021-01536-2).
 - van der Vegt, I., Mozes, M., Gill, P., & Kleinberg, B. (2020). Online influence, offline violence: Language use on YouTube surrounding the 'Unite the Right' rally. _Journal of Computational Social Science_. [Open Access.](https://link.springer.com/article/10.1007%2Fs42001-020-00080-x)
 
