@@ -2,7 +2,7 @@ I am an assistant professor with the [Utrecht University department of Sociology
 
 More: [University profile](https://www.uu.nl/staff/IWJvanderVegt), [Bluesky]([https://twitter.com/Isabellevdv](https://bsky.app/profile/isabellevdv.bsky.social)), [LinkedIn](https://www.linkedin.com/in/isabellevdv/), [Open Science Framework](https://osf.io/ubrz6/), [Google Scholar](https://scholar.google.com/citations?user=nEoRK7YAAAAJ&hl=nl).
 
-See my website for the **[Grievance Dictionary](grievancedictionary.net)** an open-source tool for automatic linguistic threat assessment.
+See my website for the **[Grievance Dictionary](https://grievancedictionary.net/)** an open-source tool for automatic linguistic threat assessment.
 
 ### Recent publications & pre-prints
 - van der Vegt, I. (2024). The relationship between conspiracy theories and online hate directed at politicians. Tijdschrift voor Criminologie, 66(3). [In Dutch](https://www.proquest.com/openview/940314c665666280977b80a8591258a8/1?pq-origsite=gscholar&cbl=486549).
