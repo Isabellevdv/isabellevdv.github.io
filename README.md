@@ -3,6 +3,7 @@ I am an assistant professor with the [Utrecht University department of Sociology
 More: [University profile](https://www.uu.nl/staff/IWJvanderVegt), [Twitter](https://twitter.com/Isabellevdv), [LinkedIn](https://www.linkedin.com/in/isabellevdv/), [Open Science Framework](https://osf.io/ubrz6/), [Google Scholar](https://scholar.google.com/citations?user=nEoRK7YAAAAJ&hl=nl).
 
 ### Recent publications & pre-prints
+- van der Vegt, I. (2024). The relationship between conspiracy theories and online hate directed at politicians. Tijdschrift voor Criminologie, 66(3). [In Dutch](https://www.proquest.com/openview/940314c665666280977b80a8591258a8/1?pq-origsite=gscholar&cbl=486549).
 - van der Vegt, I. (2024). Gender Differences in Abuse: The Case of Dutch Politicians on Twitter. _Crime Science_. [Open Access](https://rdcu.be/dNxQi).
 - Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2024). Crowdsourcing Samples for Research on Violent Extremism: A Research Note. _Terrorism and Political Violence_. [Open Access](https://www.researchgate.net/profile/Caitlin-Clemmow-2/publication/370165055_Crowdsourcing_Samples_for_Research_on_Violent_Extremism_A_Research_Note/links/64480c9f2d8ff003639d5718/Crowdsourcing-Samples-for-Research-on-Violent-Extremism-A-Research-Note.pdf).
 - van der Vegt, I., Kleinberg, B., & Gill, P. (2023). Proceed with Caution: On the Use of Computational Linguistics in Threat Assessment. [Open Access](https://www.tandfonline.com/doi/full/10.1080/18335330.2023.2165137).
