@@ -9,7 +9,7 @@ See my website for the **[Grievance Dictionary](https://grievancedictionary.net/
 - van der Vegt, I. (2024). The relationship between conspiracy theories and online hate directed at politicians. Tijdschrift voor Criminologie, 66(3). [In Dutch](https://www.proquest.com/openview/940314c665666280977b80a8591258a8/1?pq-origsite=gscholar&cbl=486549).
 - van der Vegt, I. (2024). Gender Differences in Abuse: The Case of Dutch Politicians on Twitter. _Crime Science_. [Open Access](https://rdcu.be/dNxQi).
 - Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2024). Crowdsourcing Samples for Research on Violent Extremism: A Research Note. _Terrorism and Political Violence_. [Open Access](https://www.researchgate.net/profile/Caitlin-Clemmow-2/publication/370165055_Crowdsourcing_Samples_for_Research_on_Violent_Extremism_A_Research_Note/links/64480c9f2d8ff003639d5718/Crowdsourcing-Samples-for-Research-on-Violent-Extremism-A-Research-Note.pdf).
-- van der Vegt, I., Kleinberg, B., & Gill, P. (2023). Proceed with Caution: On the Use of Computational Linguistics in Threat Assessment. [Open Access](https://www.tandfonline.com/doi/full/10.1080/18335330.2023.2165137).
+- van der Vegt, I., Kleinberg, B., & Gill, P. (2023). Proceed with Caution: On the Use of Computational Linguistics in Threat Assessment. _Journal of Policing, Intelligence, and Counterterrorism._ [Open Access](https://www.tandfonline.com/doi/full/10.1080/18335330.2023.2165137).
 - van der Vegt, I., Kleinberg, B., & Gill, P. (2022). Predicting author profiles from online abuse directed at public figures. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/xdqs9/)
 - van der Vegt, I., Gregory, P., van der Meer, B.B., Yang, E., Kleinberg, B., & Gill, P. (2022). Assessment procedures in anonymously written threats of harm and violence. _Journal of Threat Assessment and Management._ [Author version.](https://psyarxiv.com/ctw2b)
 - van der Vegt, I., Mozes, M., Kleinberg, B. & Gill, P.(2021) The Grievance Dictionary: Understanding Threatening Language Use. _Behavior Research Methods_. [Open Access](https://link.springer.com/article/10.3758/s13428-021-01536-2).
@@ -19,7 +19,7 @@ See my website for the **[Grievance Dictionary](https://grievancedictionary.net/
 - 2022-present: Assistant professor, Department of Sociology, Utrecht University 
 - 2021-2023: Honorary research fellow, Department of Security & Crime Science, University College London
 - 2021-2022: Scientific project manager, Research and Documentation Centre, Ministry of Justice and Security (Netherlands) 
-- 2018-2021: PhD candidate, Department of Security & Crime Science, University College London, supervised by Paul Gill & [Bennett Kleinberg](https://bkleinberg.net/) 
+- 2018-2021: PhD candidate, Department of Security & Crime Science, University College London
 - 2015-2017: Research Master’s degree in Psychology, University of Amsterdam 
 - 2012-2015: Bachelor of Liberal Arts & Sciences (Psychology + Linguistics), University College Utrecht 
 
