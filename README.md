@@ -5,6 +5,7 @@ More: [University profile](https://www.uu.nl/staff/IWJvanderVegt), [Bluesky](htt
 See my website for the **[Grievance Dictionary](https://grievancedictionary.net/)** an open-source tool for automatic linguistic threat assessment.
 
 ### Selected publications & pre-prints
+- van der Vegt, I. (2026). The impact of artificial intelligence on close protection and surveillance. Legal and Criminological Psychology.  [Open Access](https://doi.org/10.1111/lcrp.70054)
 - Nivette, A.E. & van der Vegt, I. (2025). Evaluating the causal mechanisms to police legitimacy and compliance
 in the United States: An in-depth mixed-methods approach. _Criminology._ [Open Access.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1745-9125.70024)
 - van der Vegt, I., Kleinberg, B., Miotto, M., & Festor, J. (2025). Translating the Grievance Dictionary: a psychometric evaluation of Dutch, German, and Italian versions. [Pre-print](https://arxiv.org/pdf/2505.07495?).
